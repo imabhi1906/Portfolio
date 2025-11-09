@@ -1,4 +1,4 @@
-## We will communicate here
+## We can put reminders or messages here
 
 the format of branches I am thinking is as follows: The top most branch is "main".
 below it will be :development
